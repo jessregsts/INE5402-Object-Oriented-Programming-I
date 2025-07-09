@@ -1,1 +1,1 @@
-Meu repositório da disciplina INE5402 - Programação Orientada a Objetos I (UFSC).
+Repository for my INE5402 - Object Oriented Programming I classes.
